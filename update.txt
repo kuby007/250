@@ -1,0 +1,1 @@
+{"versionCode":"30","updateMessage":"这是一个重要的更新，包含了许多新功能和修复。","url":"https://app.hfr1107.top/25/app.apk"}
